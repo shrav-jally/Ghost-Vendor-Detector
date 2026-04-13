@@ -1,0 +1,168 @@
+{"timestamp": "2026-04-13T06:18:28+00:00", "event": "scan", "batch_id": 0, "message": "ANALYZED: 24 new transactions", "transactions_scanned": 24, "flagged_alerts": 0, "risk_level": 0.0}
+{"timestamp": "2026-04-13T06:18:30+00:00", "event": "scan", "batch_id": 1, "message": "ANALYZED: 946 new transactions", "transactions_scanned": 946, "flagged_alerts": 0, "risk_level": 0.0}
+{"timestamp": "2026-04-13T06:18:33+00:00", "event": "scan", "batch_id": 2, "message": "ANALYZED: 202 new transactions", "transactions_scanned": 202, "flagged_alerts": 0, "risk_level": 0.0}
+{"timestamp": "2026-04-13T06:18:35+00:00", "event": "scan", "batch_id": 3, "message": "ANALYZED: 265 new transactions", "transactions_scanned": 265, "flagged_alerts": 0, "risk_level": 0.0}
+{"timestamp": "2026-04-13T06:18:41+00:00", "event": "scan", "batch_id": 4, "message": "ANALYZED: 440 new transactions", "transactions_scanned": 440, "flagged_alerts": 0, "risk_level": 0.0}
+{"timestamp": "2026-04-13T06:18:46+00:00", "event": "scan", "batch_id": 5, "message": "ANALYZED: 432 new transactions", "transactions_scanned": 432, "flagged_alerts": 0, "risk_level": 0.0}
+{"timestamp": "2026-04-13T06:18:50+00:00", "event": "scan", "batch_id": 6, "message": "ANALYZED: 372 new transactions", "transactions_scanned": 372, "flagged_alerts": 0, "risk_level": 0.0}
+{"timestamp": "2026-04-13T06:18:56+00:00", "event": "scan", "batch_id": 7, "message": "ANALYZED: 428 new transactions", "transactions_scanned": 428, "flagged_alerts": 0, "risk_level": 0.0}
+{"timestamp": "2026-04-13T06:19:02+00:00", "event": "scan", "batch_id": 8, "message": "ANALYZED: 367 new transactions", "transactions_scanned": 367, "flagged_alerts": 0, "risk_level": 0.0}
+{"timestamp": "2026-04-13T06:19:05+00:00", "event": "scan", "batch_id": 9, "message": "ANALYZED: 351 new transactions", "transactions_scanned": 351, "flagged_alerts": 0, "risk_level": 0.0}
+{"timestamp": "2026-04-13T06:19:11+00:00", "event": "scan", "batch_id": 10, "message": "ANALYZED: 411 new transactions", "transactions_scanned": 411, "flagged_alerts": 0, "risk_level": 0.0}
+{"timestamp": "2026-04-13T06:19:15+00:00", "event": "scan", "batch_id": 11, "message": "ANALYZED: 338 new transactions", "transactions_scanned": 338, "flagged_alerts": 0, "risk_level": 0.0}
+{"timestamp": "2026-04-13T06:19:22+00:00", "event": "scan", "batch_id": 12, "message": "ANALYZED: 429 new transactions", "transactions_scanned": 429, "flagged_alerts": 0, "risk_level": 0.0}
+{"timestamp": "2026-04-13T06:19:25+00:00", "event": "scan", "batch_id": 13, "message": "ANALYZED: 344 new transactions", "transactions_scanned": 344, "flagged_alerts": 0, "risk_level": 0.0}
+{"timestamp": "2026-04-13T06:19:30+00:00", "event": "scan", "batch_id": 14, "message": "ANALYZED: 420 new transactions", "transactions_scanned": 420, "flagged_alerts": 0, "risk_level": 0.0}
+{"timestamp": "2026-04-13T06:19:36+00:00", "event": "scan", "batch_id": 15, "message": "ANALYZED: 444 new transactions", "transactions_scanned": 444, "flagged_alerts": 0, "risk_level": 0.0}
+{"timestamp": "2026-04-13T06:19:41+00:00", "event": "scan", "batch_id": 16, "message": "ANALYZED: 404 new transactions", "transactions_scanned": 404, "flagged_alerts": 0, "risk_level": 0.0}
+{"timestamp": "2026-04-13T06:19:46+00:00", "event": "scan", "batch_id": 17, "message": "ANALYZED: 390 new transactions", "transactions_scanned": 390, "flagged_alerts": 0, "risk_level": 0.0}
+{"timestamp": "2026-04-13T06:19:50+00:00", "event": "scan", "batch_id": 18, "message": "ANALYZED: 424 new transactions", "transactions_scanned": 424, "flagged_alerts": 0, "risk_level": 0.0}
+{"timestamp": "2026-04-13T06:19:55+00:00", "event": "scan", "batch_id": 19, "message": "ANALYZED: 437 new transactions", "transactions_scanned": 437, "flagged_alerts": 0, "risk_level": 0.0}
+{"timestamp": "2026-04-13T06:20:01+00:00", "event": "scan", "batch_id": 20, "message": "ANALYZED: 442 new transactions", "transactions_scanned": 442, "flagged_alerts": 0, "risk_level": 0.0}
+{"timestamp": "2026-04-13T06:20:05+00:00", "event": "scan", "batch_id": 21, "message": "ANALYZED: 399 new transactions", "transactions_scanned": 399, "flagged_alerts": 0, "risk_level": 0.0}
+{"timestamp": "2026-04-13T06:20:10+00:00", "event": "scan", "batch_id": 22, "message": "ANALYZED: 439 new transactions", "transactions_scanned": 439, "flagged_alerts": 0, "risk_level": 0.0}
+{"timestamp": "2026-04-13T06:20:15+00:00", "event": "scan", "batch_id": 23, "message": "ANALYZED: 438 new transactions", "transactions_scanned": 438, "flagged_alerts": 0, "risk_level": 0.0}
+{"timestamp": "2026-04-13T06:20:21+00:00", "event": "scan", "batch_id": 24, "message": "ANALYZED: 429 new transactions", "transactions_scanned": 429, "flagged_alerts": 0, "risk_level": 0.0}
+{"timestamp": "2026-04-13T06:20:25+00:00", "event": "scan", "batch_id": 25, "message": "ANALYZED: 385 new transactions", "transactions_scanned": 385, "flagged_alerts": 0, "risk_level": 0.0}
+{"timestamp": "2026-04-13T06:20:30+00:00", "event": "scan", "batch_id": 26, "message": "ANALYZED: 432 new transactions", "transactions_scanned": 432, "flagged_alerts": 0, "risk_level": 0.0}
+{"timestamp": "2026-04-13T06:20:36+00:00", "event": "scan", "batch_id": 27, "message": "ANALYZED: 439 new transactions", "transactions_scanned": 439, "flagged_alerts": 0, "risk_level": 0.0}
+{"timestamp": "2026-04-13T06:20:40+00:00", "event": "scan", "batch_id": 28, "message": "ANALYZED: 384 new transactions", "transactions_scanned": 384, "flagged_alerts": 0, "risk_level": 0.0}
+{"timestamp": "2026-04-13T06:20:46+00:00", "event": "scan", "batch_id": 29, "message": "ANALYZED: 419 new transactions", "transactions_scanned": 419, "flagged_alerts": 0, "risk_level": 0.0}
+{"timestamp": "2026-04-13T06:20:51+00:00", "event": "scan", "batch_id": 30, "message": "ANALYZED: 404 new transactions", "transactions_scanned": 404, "flagged_alerts": 0, "risk_level": 0.0}
+{"timestamp": "2026-04-13T06:20:55+00:00", "event": "scan", "batch_id": 31, "message": "ANALYZED: 411 new transactions", "transactions_scanned": 411, "flagged_alerts": 0, "risk_level": 0.0}
+{"timestamp": "2026-04-13T06:21:00+00:00", "event": "scan", "batch_id": 32, "message": "ANALYZED: 410 new transactions", "transactions_scanned": 410, "flagged_alerts": 0, "risk_level": 0.0}
+{"timestamp": "2026-04-13T06:21:05+00:00", "event": "scan", "batch_id": 33, "message": "ANALYZED: 422 new transactions", "transactions_scanned": 422, "flagged_alerts": 0, "risk_level": 0.0}
+{"timestamp": "2026-04-13T06:21:10+00:00", "event": "scan", "batch_id": 34, "message": "ANALYZED: 420 new transactions", "transactions_scanned": 420, "flagged_alerts": 0, "risk_level": 0.0}
+{"timestamp": "2026-04-13T06:21:15+00:00", "event": "scan", "batch_id": 35, "message": "ANALYZED: 428 new transactions", "transactions_scanned": 428, "flagged_alerts": 0, "risk_level": 0.0}
+{"timestamp": "2026-04-13T06:21:20+00:00", "event": "scan", "batch_id": 36, "message": "ANALYZED: 427 new transactions", "transactions_scanned": 427, "flagged_alerts": 0, "risk_level": 0.0}
+{"timestamp": "2026-04-13T06:21:25+00:00", "event": "scan", "batch_id": 37, "message": "ANALYZED: 429 new transactions", "transactions_scanned": 429, "flagged_alerts": 0, "risk_level": 0.0}
+{"timestamp": "2026-04-13T06:21:30+00:00", "event": "scan", "batch_id": 38, "message": "ANALYZED: 426 new transactions", "transactions_scanned": 426, "flagged_alerts": 0, "risk_level": 0.0}
+{"timestamp": "2026-04-13T06:21:35+00:00", "event": "scan", "batch_id": 39, "message": "ANALYZED: 424 new transactions", "transactions_scanned": 424, "flagged_alerts": 0, "risk_level": 0.0}
+{"timestamp": "2026-04-13T06:21:40+00:00", "event": "scan", "batch_id": 40, "message": "ANALYZED: 432 new transactions", "transactions_scanned": 432, "flagged_alerts": 0, "risk_level": 0.0}
+{"timestamp": "2026-04-13T06:21:45+00:00", "event": "scan", "batch_id": 41, "message": "ANALYZED: 417 new transactions", "transactions_scanned": 417, "flagged_alerts": 0, "risk_level": 0.0}
+{"timestamp": "2026-04-13T06:21:50+00:00", "event": "scan", "batch_id": 42, "message": "ANALYZED: 417 new transactions", "transactions_scanned": 417, "flagged_alerts": 0, "risk_level": 0.0}
+{"timestamp": "2026-04-13T06:21:56+00:00", "event": "scan", "batch_id": 43, "message": "ANALYZED: 412 new transactions", "transactions_scanned": 412, "flagged_alerts": 0, "risk_level": 0.0}
+{"timestamp": "2026-04-13T06:22:00+00:00", "event": "scan", "batch_id": 44, "message": "ANALYZED: 391 new transactions", "transactions_scanned": 391, "flagged_alerts": 0, "risk_level": 0.0}
+{"timestamp": "2026-04-13T06:22:06+00:00", "event": "scan", "batch_id": 45, "message": "ANALYZED: 414 new transactions", "transactions_scanned": 414, "flagged_alerts": 0, "risk_level": 0.0}
+{"timestamp": "2026-04-13T06:22:10+00:00", "event": "scan", "batch_id": 46, "message": "ANALYZED: 386 new transactions", "transactions_scanned": 386, "flagged_alerts": 0, "risk_level": 0.0}
+{"timestamp": "2026-04-13T06:22:16+00:00", "event": "scan", "batch_id": 47, "message": "ANALYZED: 398 new transactions", "transactions_scanned": 398, "flagged_alerts": 0, "risk_level": 0.0}
+{"timestamp": "2026-04-13T06:22:20+00:00", "event": "scan", "batch_id": 48, "message": "ANALYZED: 372 new transactions", "transactions_scanned": 372, "flagged_alerts": 0, "risk_level": 0.0}
+{"timestamp": "2026-04-13T06:22:25+00:00", "event": "scan", "batch_id": 49, "message": "ANALYZED: 432 new transactions", "transactions_scanned": 432, "flagged_alerts": 0, "risk_level": 0.0}
+{"timestamp": "2026-04-13T06:22:30+00:00", "event": "scan", "batch_id": 50, "message": "ANALYZED: 416 new transactions", "transactions_scanned": 416, "flagged_alerts": 0, "risk_level": 0.0}
+{"timestamp": "2026-04-13T06:22:31+00:00", "event": "warning", "batch_id": 50, "message": "WARNING: Loop found in Batch #50", "transactions_scanned": 416, "flagged_alerts": 3, "risk_level": 100.0}
+{"timestamp": "2026-04-13T06:22:35+00:00", "event": "scan", "batch_id": 51, "message": "ANALYZED: 420 new transactions", "transactions_scanned": 420, "flagged_alerts": 0, "risk_level": 0.0}
+{"timestamp": "2026-04-13T06:22:36+00:00", "event": "warning", "batch_id": 51, "message": "WARNING: Loop found in Batch #51", "transactions_scanned": 420, "flagged_alerts": 3, "risk_level": 90.02}
+{"timestamp": "2026-04-13T06:22:40+00:00", "event": "scan", "batch_id": 52, "message": "ANALYZED: 418 new transactions", "transactions_scanned": 418, "flagged_alerts": 0, "risk_level": 0.0}
+{"timestamp": "2026-04-13T06:22:40+00:00", "event": "warning", "batch_id": 52, "message": "WARNING: Loop found in Batch #52", "transactions_scanned": 418, "flagged_alerts": 3, "risk_level": 92.52}
+{"timestamp": "2026-04-13T06:22:45+00:00", "event": "scan", "batch_id": 53, "message": "ANALYZED: 410 new transactions", "transactions_scanned": 410, "flagged_alerts": 0, "risk_level": 0.0}
+{"timestamp": "2026-04-13T06:22:45+00:00", "event": "warning", "batch_id": 53, "message": "WARNING: Loop found in Batch #53", "transactions_scanned": 410, "flagged_alerts": 3, "risk_level": 92.96}
+{"timestamp": "2026-04-13T06:22:50+00:00", "event": "scan", "batch_id": 54, "message": "ANALYZED: 436 new transactions", "transactions_scanned": 436, "flagged_alerts": 0, "risk_level": 0.0}
+{"timestamp": "2026-04-13T06:22:50+00:00", "event": "warning", "batch_id": 54, "message": "WARNING: Loop found in Batch #54", "transactions_scanned": 436, "flagged_alerts": 3, "risk_level": 91.42}
+{"timestamp": "2026-04-13T06:22:55+00:00", "event": "scan", "batch_id": 55, "message": "ANALYZED: 422 new transactions", "transactions_scanned": 422, "flagged_alerts": 0, "risk_level": 0.0}
+{"timestamp": "2026-04-13T06:22:56+00:00", "event": "warning", "batch_id": 55, "message": "WARNING: Loop found in Batch #55", "transactions_scanned": 422, "flagged_alerts": 3, "risk_level": 92.88}
+{"timestamp": "2026-04-13T06:23:00+00:00", "event": "scan", "batch_id": 56, "message": "ANALYZED: 417 new transactions", "transactions_scanned": 417, "flagged_alerts": 0, "risk_level": 0.0}
+{"timestamp": "2026-04-13T06:23:01+00:00", "event": "warning", "batch_id": 56, "message": "WARNING: Loop found in Batch #56", "transactions_scanned": 417, "flagged_alerts": 3, "risk_level": 92.26}
+{"timestamp": "2026-04-13T06:23:05+00:00", "event": "scan", "batch_id": 57, "message": "ANALYZED: 419 new transactions", "transactions_scanned": 419, "flagged_alerts": 0, "risk_level": 0.0}
+{"timestamp": "2026-04-13T06:23:05+00:00", "event": "warning", "batch_id": 57, "message": "WARNING: Loop found in Batch #57", "transactions_scanned": 419, "flagged_alerts": 3, "risk_level": 91.07}
+{"timestamp": "2026-04-13T06:23:10+00:00", "event": "scan", "batch_id": 58, "message": "ANALYZED: 420 new transactions", "transactions_scanned": 420, "flagged_alerts": 0, "risk_level": 0.0}
+{"timestamp": "2026-04-13T06:23:11+00:00", "event": "warning", "batch_id": 58, "message": "WARNING: Loop found in Batch #58", "transactions_scanned": 420, "flagged_alerts": 3, "risk_level": 94.45}
+{"timestamp": "2026-04-13T06:23:15+00:00", "event": "scan", "batch_id": 59, "message": "ANALYZED: 403 new transactions", "transactions_scanned": 403, "flagged_alerts": 0, "risk_level": 0.0}
+{"timestamp": "2026-04-13T06:23:16+00:00", "event": "warning", "batch_id": 59, "message": "WARNING: Loop found in Batch #59", "transactions_scanned": 403, "flagged_alerts": 3, "risk_level": 91.14}
+{"timestamp": "2026-04-13T06:23:20+00:00", "event": "scan", "batch_id": 60, "message": "ANALYZED: 408 new transactions", "transactions_scanned": 408, "flagged_alerts": 0, "risk_level": 0.0}
+{"timestamp": "2026-04-13T06:23:20+00:00", "event": "warning", "batch_id": 60, "message": "WARNING: Loop found in Batch #60", "transactions_scanned": 408, "flagged_alerts": 3, "risk_level": 91.32}
+{"timestamp": "2026-04-13T06:23:26+00:00", "event": "scan", "batch_id": 61, "message": "ANALYZED: 371 new transactions", "transactions_scanned": 371, "flagged_alerts": 0, "risk_level": 0.0}
+{"timestamp": "2026-04-13T06:23:26+00:00", "event": "warning", "batch_id": 61, "message": "WARNING: Loop found in Batch #61", "transactions_scanned": 371, "flagged_alerts": 3, "risk_level": 94.48}
+{"timestamp": "2026-04-13T06:23:30+00:00", "event": "scan", "batch_id": 62, "message": "ANALYZED: 420 new transactions", "transactions_scanned": 420, "flagged_alerts": 0, "risk_level": 0.0}
+{"timestamp": "2026-04-13T06:23:31+00:00", "event": "warning", "batch_id": 62, "message": "WARNING: Loop found in Batch #62", "transactions_scanned": 420, "flagged_alerts": 3, "risk_level": 93.41}
+{"timestamp": "2026-04-13T06:23:35+00:00", "event": "scan", "batch_id": 63, "message": "ANALYZED: 423 new transactions", "transactions_scanned": 423, "flagged_alerts": 0, "risk_level": 0.0}
+{"timestamp": "2026-04-13T06:23:35+00:00", "event": "warning", "batch_id": 63, "message": "WARNING: Loop found in Batch #63", "transactions_scanned": 423, "flagged_alerts": 3, "risk_level": 92.16}
+{"timestamp": "2026-04-13T06:23:40+00:00", "event": "scan", "batch_id": 64, "message": "ANALYZED: 435 new transactions", "transactions_scanned": 435, "flagged_alerts": 0, "risk_level": 0.0}
+{"timestamp": "2026-04-13T06:23:41+00:00", "event": "warning", "batch_id": 64, "message": "WARNING: Loop found in Batch #64", "transactions_scanned": 435, "flagged_alerts": 3, "risk_level": 95.56}
+{"timestamp": "2026-04-13T06:23:45+00:00", "event": "scan", "batch_id": 65, "message": "ANALYZED: 406 new transactions", "transactions_scanned": 406, "flagged_alerts": 0, "risk_level": 0.0}
+{"timestamp": "2026-04-13T06:23:46+00:00", "event": "warning", "batch_id": 65, "message": "WARNING: Loop found in Batch #65", "transactions_scanned": 406, "flagged_alerts": 3, "risk_level": 92.36}
+{"timestamp": "2026-04-13T06:23:50+00:00", "event": "scan", "batch_id": 66, "message": "ANALYZED: 421 new transactions", "transactions_scanned": 421, "flagged_alerts": 0, "risk_level": 0.0}
+{"timestamp": "2026-04-13T06:23:50+00:00", "event": "warning", "batch_id": 66, "message": "WARNING: Loop found in Batch #66", "transactions_scanned": 421, "flagged_alerts": 3, "risk_level": 90.72}
+{"timestamp": "2026-04-13T06:23:55+00:00", "event": "scan", "batch_id": 67, "message": "ANALYZED: 440 new transactions", "transactions_scanned": 440, "flagged_alerts": 0, "risk_level": 0.0}
+{"timestamp": "2026-04-13T06:23:55+00:00", "event": "warning", "batch_id": 67, "message": "WARNING: Loop found in Batch #67", "transactions_scanned": 440, "flagged_alerts": 3, "risk_level": 93.71}
+{"timestamp": "2026-04-13T06:24:00+00:00", "event": "scan", "batch_id": 68, "message": "ANALYZED: 432 new transactions", "transactions_scanned": 432, "flagged_alerts": 0, "risk_level": 0.0}
+{"timestamp": "2026-04-13T06:24:00+00:00", "event": "warning", "batch_id": 68, "message": "WARNING: Loop found in Batch #68", "transactions_scanned": 432, "flagged_alerts": 3, "risk_level": 89.96}
+{"timestamp": "2026-04-13T06:24:05+00:00", "event": "scan", "batch_id": 69, "message": "ANALYZED: 438 new transactions", "transactions_scanned": 438, "flagged_alerts": 0, "risk_level": 0.0}
+{"timestamp": "2026-04-13T06:24:05+00:00", "event": "warning", "batch_id": 69, "message": "WARNING: Loop found in Batch #69", "transactions_scanned": 438, "flagged_alerts": 3, "risk_level": 94.8}
+{"timestamp": "2026-04-13T06:24:10+00:00", "event": "scan", "batch_id": 70, "message": "ANALYZED: 426 new transactions", "transactions_scanned": 426, "flagged_alerts": 0, "risk_level": 0.0}
+{"timestamp": "2026-04-13T06:24:10+00:00", "event": "warning", "batch_id": 70, "message": "WARNING: Loop found in Batch #70", "transactions_scanned": 426, "flagged_alerts": 3, "risk_level": 93.38}
+{"timestamp": "2026-04-13T06:24:15+00:00", "event": "scan", "batch_id": 71, "message": "ANALYZED: 432 new transactions", "transactions_scanned": 432, "flagged_alerts": 0, "risk_level": 0.0}
+{"timestamp": "2026-04-13T06:24:16+00:00", "event": "warning", "batch_id": 71, "message": "WARNING: Loop found in Batch #71", "transactions_scanned": 432, "flagged_alerts": 3, "risk_level": 95.78}
+{"timestamp": "2026-04-13T06:24:20+00:00", "event": "scan", "batch_id": 72, "message": "ANALYZED: 432 new transactions", "transactions_scanned": 432, "flagged_alerts": 0, "risk_level": 0.0}
+{"timestamp": "2026-04-13T06:24:21+00:00", "event": "warning", "batch_id": 72, "message": "WARNING: Loop found in Batch #72", "transactions_scanned": 432, "flagged_alerts": 3, "risk_level": 92.7}
+{"timestamp": "2026-04-13T06:24:25+00:00", "event": "scan", "batch_id": 73, "message": "ANALYZED: 385 new transactions", "transactions_scanned": 385, "flagged_alerts": 0, "risk_level": 0.0}
+{"timestamp": "2026-04-13T06:24:26+00:00", "event": "warning", "batch_id": 73, "message": "WARNING: Loop found in Batch #73", "transactions_scanned": 385, "flagged_alerts": 3, "risk_level": 92.39}
+{"timestamp": "2026-04-13T06:24:30+00:00", "event": "scan", "batch_id": 74, "message": "ANALYZED: 419 new transactions", "transactions_scanned": 419, "flagged_alerts": 0, "risk_level": 0.0}
+{"timestamp": "2026-04-13T06:24:30+00:00", "event": "warning", "batch_id": 74, "message": "WARNING: Loop found in Batch #74", "transactions_scanned": 419, "flagged_alerts": 3, "risk_level": 94.07}
+{"timestamp": "2026-04-13T06:24:35+00:00", "event": "scan", "batch_id": 75, "message": "ANALYZED: 428 new transactions", "transactions_scanned": 428, "flagged_alerts": 0, "risk_level": 0.0}
+{"timestamp": "2026-04-13T06:24:36+00:00", "event": "warning", "batch_id": 75, "message": "WARNING: Loop found in Batch #75", "transactions_scanned": 428, "flagged_alerts": 3, "risk_level": 90.9}
+{"timestamp": "2026-04-13T06:24:40+00:00", "event": "scan", "batch_id": 76, "message": "ANALYZED: 424 new transactions", "transactions_scanned": 424, "flagged_alerts": 0, "risk_level": 0.0}
+{"timestamp": "2026-04-13T06:24:41+00:00", "event": "warning", "batch_id": 76, "message": "WARNING: Loop found in Batch #76", "transactions_scanned": 424, "flagged_alerts": 3, "risk_level": 91.31}
+{"timestamp": "2026-04-13T06:24:45+00:00", "event": "scan", "batch_id": 77, "message": "ANALYZED: 438 new transactions", "transactions_scanned": 438, "flagged_alerts": 0, "risk_level": 0.0}
+{"timestamp": "2026-04-13T06:24:46+00:00", "event": "warning", "batch_id": 77, "message": "WARNING: Loop found in Batch #77", "transactions_scanned": 438, "flagged_alerts": 3, "risk_level": 91.62}
+{"timestamp": "2026-04-13T06:24:50+00:00", "event": "scan", "batch_id": 78, "message": "ANALYZED: 421 new transactions", "transactions_scanned": 421, "flagged_alerts": 0, "risk_level": 0.0}
+{"timestamp": "2026-04-13T06:24:51+00:00", "event": "warning", "batch_id": 78, "message": "WARNING: Loop found in Batch #78", "transactions_scanned": 421, "flagged_alerts": 3, "risk_level": 90.86}
+{"timestamp": "2026-04-13T06:24:55+00:00", "event": "scan", "batch_id": 79, "message": "ANALYZED: 428 new transactions", "transactions_scanned": 428, "flagged_alerts": 0, "risk_level": 0.0}
+{"timestamp": "2026-04-13T06:24:55+00:00", "event": "warning", "batch_id": 79, "message": "WARNING: Loop found in Batch #79", "transactions_scanned": 428, "flagged_alerts": 3, "risk_level": 92.19}
+{"timestamp": "2026-04-13T06:25:00+00:00", "event": "scan", "batch_id": 80, "message": "ANALYZED: 440 new transactions", "transactions_scanned": 440, "flagged_alerts": 0, "risk_level": 0.0}
+{"timestamp": "2026-04-13T06:25:01+00:00", "event": "warning", "batch_id": 80, "message": "WARNING: Loop found in Batch #80", "transactions_scanned": 440, "flagged_alerts": 3, "risk_level": 92.1}
+{"timestamp": "2026-04-13T06:25:05+00:00", "event": "scan", "batch_id": 81, "message": "ANALYZED: 410 new transactions", "transactions_scanned": 410, "flagged_alerts": 0, "risk_level": 0.0}
+{"timestamp": "2026-04-13T06:25:06+00:00", "event": "warning", "batch_id": 81, "message": "WARNING: Loop found in Batch #81", "transactions_scanned": 410, "flagged_alerts": 3, "risk_level": 92.12}
+{"timestamp": "2026-04-13T06:25:10+00:00", "event": "scan", "batch_id": 82, "message": "ANALYZED: 421 new transactions", "transactions_scanned": 421, "flagged_alerts": 0, "risk_level": 0.0}
+{"timestamp": "2026-04-13T06:25:11+00:00", "event": "warning", "batch_id": 82, "message": "WARNING: Loop found in Batch #82", "transactions_scanned": 421, "flagged_alerts": 3, "risk_level": 92.69}
+{"timestamp": "2026-04-13T06:25:15+00:00", "event": "scan", "batch_id": 83, "message": "ANALYZED: 426 new transactions", "transactions_scanned": 426, "flagged_alerts": 0, "risk_level": 0.0}
+{"timestamp": "2026-04-13T06:25:15+00:00", "event": "warning", "batch_id": 83, "message": "WARNING: Loop found in Batch #83", "transactions_scanned": 426, "flagged_alerts": 3, "risk_level": 90.51}
+{"timestamp": "2026-04-13T06:25:20+00:00", "event": "scan", "batch_id": 84, "message": "ANALYZED: 437 new transactions", "transactions_scanned": 437, "flagged_alerts": 0, "risk_level": 0.0}
+{"timestamp": "2026-04-13T06:25:21+00:00", "event": "warning", "batch_id": 84, "message": "WARNING: Loop found in Batch #84", "transactions_scanned": 437, "flagged_alerts": 3, "risk_level": 90.28}
+{"timestamp": "2026-04-13T06:25:25+00:00", "event": "scan", "batch_id": 85, "message": "ANALYZED: 416 new transactions", "transactions_scanned": 416, "flagged_alerts": 0, "risk_level": 0.0}
+{"timestamp": "2026-04-13T06:25:26+00:00", "event": "warning", "batch_id": 85, "message": "WARNING: Loop found in Batch #85", "transactions_scanned": 416, "flagged_alerts": 3, "risk_level": 91.97}
+{"timestamp": "2026-04-13T06:25:30+00:00", "event": "scan", "batch_id": 86, "message": "ANALYZED: 436 new transactions", "transactions_scanned": 436, "flagged_alerts": 0, "risk_level": 0.0}
+{"timestamp": "2026-04-13T06:25:31+00:00", "event": "warning", "batch_id": 86, "message": "WARNING: Loop found in Batch #86", "transactions_scanned": 436, "flagged_alerts": 3, "risk_level": 92.57}
+{"timestamp": "2026-04-13T06:25:35+00:00", "event": "scan", "batch_id": 87, "message": "ANALYZED: 413 new transactions", "transactions_scanned": 413, "flagged_alerts": 0, "risk_level": 0.0}
+{"timestamp": "2026-04-13T06:25:36+00:00", "event": "warning", "batch_id": 87, "message": "WARNING: Loop found in Batch #87", "transactions_scanned": 413, "flagged_alerts": 3, "risk_level": 94.14}
+{"timestamp": "2026-04-13T06:25:40+00:00", "event": "scan", "batch_id": 88, "message": "ANALYZED: 412 new transactions", "transactions_scanned": 412, "flagged_alerts": 0, "risk_level": 0.0}
+{"timestamp": "2026-04-13T06:25:41+00:00", "event": "warning", "batch_id": 88, "message": "WARNING: Loop found in Batch #88", "transactions_scanned": 412, "flagged_alerts": 3, "risk_level": 90.88}
+{"timestamp": "2026-04-13T06:25:45+00:00", "event": "scan", "batch_id": 89, "message": "ANALYZED: 433 new transactions", "transactions_scanned": 433, "flagged_alerts": 0, "risk_level": 0.0}
+{"timestamp": "2026-04-13T06:25:46+00:00", "event": "warning", "batch_id": 89, "message": "WARNING: Loop found in Batch #89", "transactions_scanned": 433, "flagged_alerts": 3, "risk_level": 92.95}
+{"timestamp": "2026-04-13T06:25:50+00:00", "event": "scan", "batch_id": 90, "message": "ANALYZED: 428 new transactions", "transactions_scanned": 428, "flagged_alerts": 0, "risk_level": 0.0}
+{"timestamp": "2026-04-13T06:25:50+00:00", "event": "warning", "batch_id": 90, "message": "WARNING: Loop found in Batch #90", "transactions_scanned": 428, "flagged_alerts": 3, "risk_level": 93.38}
+{"timestamp": "2026-04-13T06:25:56+00:00", "event": "scan", "batch_id": 91, "message": "ANALYZED: 438 new transactions", "transactions_scanned": 438, "flagged_alerts": 0, "risk_level": 0.0}
+{"timestamp": "2026-04-13T06:25:56+00:00", "event": "warning", "batch_id": 91, "message": "WARNING: Loop found in Batch #91", "transactions_scanned": 438, "flagged_alerts": 3, "risk_level": 92.41}
+{"timestamp": "2026-04-13T06:26:00+00:00", "event": "scan", "batch_id": 92, "message": "ANALYZED: 439 new transactions", "transactions_scanned": 439, "flagged_alerts": 0, "risk_level": 0.0}
+{"timestamp": "2026-04-13T06:26:00+00:00", "event": "warning", "batch_id": 92, "message": "WARNING: Loop found in Batch #92", "transactions_scanned": 439, "flagged_alerts": 3, "risk_level": 91.74}
+{"timestamp": "2026-04-13T06:26:05+00:00", "event": "scan", "batch_id": 93, "message": "ANALYZED: 465 new transactions", "transactions_scanned": 465, "flagged_alerts": 0, "risk_level": 0.0}
+{"timestamp": "2026-04-13T06:26:05+00:00", "event": "warning", "batch_id": 93, "message": "WARNING: Loop found in Batch #93", "transactions_scanned": 465, "flagged_alerts": 3, "risk_level": 90.07}
+{"timestamp": "2026-04-13T06:26:10+00:00", "event": "scan", "batch_id": 94, "message": "ANALYZED: 458 new transactions", "transactions_scanned": 458, "flagged_alerts": 0, "risk_level": 0.0}
+{"timestamp": "2026-04-13T06:26:10+00:00", "event": "warning", "batch_id": 94, "message": "WARNING: Loop found in Batch #94", "transactions_scanned": 458, "flagged_alerts": 3, "risk_level": 91.87}
+{"timestamp": "2026-04-13T06:26:15+00:00", "event": "scan", "batch_id": 95, "message": "ANALYZED: 434 new transactions", "transactions_scanned": 434, "flagged_alerts": 0, "risk_level": 0.0}
+{"timestamp": "2026-04-13T06:26:16+00:00", "event": "warning", "batch_id": 95, "message": "WARNING: Loop found in Batch #95", "transactions_scanned": 434, "flagged_alerts": 3, "risk_level": 90.21}
+{"timestamp": "2026-04-13T06:26:20+00:00", "event": "scan", "batch_id": 96, "message": "ANALYZED: 404 new transactions", "transactions_scanned": 404, "flagged_alerts": 0, "risk_level": 0.0}
+{"timestamp": "2026-04-13T06:26:21+00:00", "event": "warning", "batch_id": 96, "message": "WARNING: Loop found in Batch #96", "transactions_scanned": 404, "flagged_alerts": 3, "risk_level": 93.93}
+{"timestamp": "2026-04-13T06:26:25+00:00", "event": "scan", "batch_id": 97, "message": "ANALYZED: 409 new transactions", "transactions_scanned": 409, "flagged_alerts": 0, "risk_level": 0.0}
+{"timestamp": "2026-04-13T06:26:26+00:00", "event": "warning", "batch_id": 97, "message": "WARNING: Loop found in Batch #97", "transactions_scanned": 409, "flagged_alerts": 3, "risk_level": 93.76}
+{"timestamp": "2026-04-13T06:26:30+00:00", "event": "scan", "batch_id": 98, "message": "ANALYZED: 425 new transactions", "transactions_scanned": 425, "flagged_alerts": 0, "risk_level": 0.0}
+{"timestamp": "2026-04-13T06:26:30+00:00", "event": "warning", "batch_id": 98, "message": "WARNING: Loop found in Batch #98", "transactions_scanned": 425, "flagged_alerts": 3, "risk_level": 89.12}
+{"timestamp": "2026-04-13T06:26:35+00:00", "event": "scan", "batch_id": 99, "message": "ANALYZED: 439 new transactions", "transactions_scanned": 439, "flagged_alerts": 0, "risk_level": 0.0}
+{"timestamp": "2026-04-13T06:26:35+00:00", "event": "warning", "batch_id": 99, "message": "WARNING: Loop found in Batch #99", "transactions_scanned": 439, "flagged_alerts": 3, "risk_level": 92.15}
+{"timestamp": "2026-04-13T06:26:40+00:00", "event": "scan", "batch_id": 100, "message": "ANALYZED: 459 new transactions", "transactions_scanned": 459, "flagged_alerts": 0, "risk_level": 0.0}
+{"timestamp": "2026-04-13T06:26:40+00:00", "event": "warning", "batch_id": 100, "message": "WARNING: Loop found in Batch #100", "transactions_scanned": 459, "flagged_alerts": 3, "risk_level": 91.59}
+{"timestamp": "2026-04-13T06:26:45+00:00", "event": "scan", "batch_id": 101, "message": "ANALYZED: 464 new transactions", "transactions_scanned": 464, "flagged_alerts": 0, "risk_level": 0.0}
+{"timestamp": "2026-04-13T06:26:45+00:00", "event": "warning", "batch_id": 101, "message": "WARNING: Loop found in Batch #101", "transactions_scanned": 464, "flagged_alerts": 3, "risk_level": 92.3}
+{"timestamp": "2026-04-13T06:26:50+00:00", "event": "scan", "batch_id": 102, "message": "ANALYZED: 462 new transactions", "transactions_scanned": 462, "flagged_alerts": 0, "risk_level": 0.0}
+{"timestamp": "2026-04-13T06:26:50+00:00", "event": "warning", "batch_id": 102, "message": "WARNING: Loop found in Batch #102", "transactions_scanned": 462, "flagged_alerts": 3, "risk_level": 91.75}
+{"timestamp": "2026-04-13T06:26:55+00:00", "event": "scan", "batch_id": 103, "message": "ANALYZED: 466 new transactions", "transactions_scanned": 466, "flagged_alerts": 0, "risk_level": 0.0}
+{"timestamp": "2026-04-13T06:26:56+00:00", "event": "warning", "batch_id": 103, "message": "WARNING: Loop found in Batch #103", "transactions_scanned": 466, "flagged_alerts": 3, "risk_level": 90.69}
+{"timestamp": "2026-04-13T06:27:00+00:00", "event": "scan", "batch_id": 104, "message": "ANALYZED: 431 new transactions", "transactions_scanned": 431, "flagged_alerts": 0, "risk_level": 0.0}
+{"timestamp": "2026-04-13T06:27:00+00:00", "event": "warning", "batch_id": 104, "message": "WARNING: Loop found in Batch #104", "transactions_scanned": 431, "flagged_alerts": 3, "risk_level": 92.73}
+{"timestamp": "2026-04-13T06:27:05+00:00", "event": "scan", "batch_id": 105, "message": "ANALYZED: 445 new transactions", "transactions_scanned": 445, "flagged_alerts": 0, "risk_level": 0.0}
+{"timestamp": "2026-04-13T06:27:05+00:00", "event": "warning", "batch_id": 105, "message": "WARNING: Loop found in Batch #105", "transactions_scanned": 445, "flagged_alerts": 3, "risk_level": 91.52}
+{"timestamp": "2026-04-13T06:27:10+00:00", "event": "scan", "batch_id": 106, "message": "ANALYZED: 434 new transactions", "transactions_scanned": 434, "flagged_alerts": 0, "risk_level": 0.0}
+{"timestamp": "2026-04-13T06:27:11+00:00", "event": "warning", "batch_id": 106, "message": "WARNING: Loop found in Batch #106", "transactions_scanned": 434, "flagged_alerts": 3, "risk_level": 91.5}
+{"timestamp": "2026-04-13T06:27:15+00:00", "event": "scan", "batch_id": 107, "message": "ANALYZED: 444 new transactions", "transactions_scanned": 444, "flagged_alerts": 0, "risk_level": 0.0}
+{"timestamp": "2026-04-13T06:27:16+00:00", "event": "warning", "batch_id": 107, "message": "WARNING: Loop found in Batch #107", "transactions_scanned": 444, "flagged_alerts": 3, "risk_level": 92.31}
+{"timestamp": "2026-04-13T06:27:20+00:00", "event": "scan", "batch_id": 108, "message": "ANALYZED: 439 new transactions", "transactions_scanned": 439, "flagged_alerts": 0, "risk_level": 0.0}
+{"timestamp": "2026-04-13T06:27:20+00:00", "event": "warning", "batch_id": 108, "message": "WARNING: Loop found in Batch #108", "transactions_scanned": 439, "flagged_alerts": 3, "risk_level": 89.45}

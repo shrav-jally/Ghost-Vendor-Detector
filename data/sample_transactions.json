@@ -1,0 +1,5 @@
+[
+  { "from_id": "EMP001", "to_id": "VEND_99", "amount": 5000, "timestamp": "2026-04-12T10:00:00Z" },
+  { "from_id": "VEND_99", "to_id": "EMP002", "amount": 4500, "timestamp": "2026-04-12T10:05:00Z" },
+  { "from_id": "EMP002", "to_id": "EMP001", "amount": 4000, "timestamp": "2026-04-12T10:10:00Z" }
+]
