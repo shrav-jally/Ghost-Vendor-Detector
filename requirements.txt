@@ -1,0 +1,8 @@
+streamlit>=1.33
+streamlit-autorefresh>=1.0.1
+pandas>=2.0
+plotly>=5.20
+networkx>=3.2
+kafka-python>=2.0
+faker>=24.0
+pyspark>=3.5
