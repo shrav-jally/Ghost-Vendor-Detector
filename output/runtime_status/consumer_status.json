@@ -1,0 +1,13 @@
+{
+  "process": "spark_consumer",
+  "status": "running",
+  "topic": "financial_transactions",
+  "model_loaded": false,
+  "neo4j_sink_enabled": false,
+  "neo4j_retry_queue_size": 0,
+  "last_batch_id": 598,
+  "rows_in_batch": 470,
+  "flagged_rows": 9,
+  "last_event": "Spark micro-batch processed",
+  "last_heartbeat": "2026-04-18T06:55:15+00:00"
+}

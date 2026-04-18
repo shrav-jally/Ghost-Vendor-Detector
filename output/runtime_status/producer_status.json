@@ -1,0 +1,11 @@
+{
+  "process": "producer",
+  "status": "running",
+  "topic": "financial_transactions",
+  "bootstrap_servers": "127.0.0.1:9092",
+  "tx_per_second_target": 100,
+  "tx_sent_total": 280984,
+  "fraud_queue_depth": 0,
+  "last_event": "Streaming transactions",
+  "last_heartbeat": "2026-04-18T06:55:58+00:00"
+}
