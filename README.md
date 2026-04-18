@@ -164,3 +164,20 @@ Use full path command from Step 3, or run from `producer` folder.
 3. Spark consumer is processing micro-batches.
 4. Streamlit shows live metrics and analytics pages.
 5. Flagged loops appear in Analytics/Graph pages after fraud bursts.
+
+
+cd "C:\testkafka\kafka_2.13-4.2.0\bin\windows"
+set CLUSTER_ID=TbO82k_ERPKT2nHGujsGDg
+echo %CLUSTER_ID%
+.\kafka-server-start.bat ..\..\config\server.properties
+Test-NetConnection -ComputerName 127.0.0.1 -Port 9092
+spark-shell
+pyspark
+
+C:\Users\jalle\VSC\kafka\.venv\Scripts\python.exe C:\Users\jalle\VSC\kafka\producer\transaction_producer.py
+
+$env:PYSPARK_PYTHON="c:/Users/jalle/VSC/kafka/.venv/Scripts/python.exe"
+>> $env:PYSPARK_DRIVER_PYTHON="c:/Users/jalle/VSC/kafka/.venv/Scripts/python.exe"
+>> spark-submit --packages org.apache.spark:spark-sql-kafka-0-10_2.12:3.5.8 --conf spark.pyspark.python=c:/Users/jalle/VSC/kafka/.venv/Scripts/python.exe --conf spark.pyspark.driver.python=c:/Users/jalle/VSC/kafka/.venv/Scripts/python.exe consumer/spark_stream_processor.py
+
+treamlit run app_ui.py
